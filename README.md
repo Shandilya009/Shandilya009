@@ -1,16 +1,16 @@
 # Hi 👋, I'm Shubham Shandilya
 
-### 🎓 B.Tech Student | 💻 Full Stack Developer | 🚀 Tech Enthusiast
+### 🎓 B.Tech Student | 💻 Aspiring Software Engineer | 🚀 Tech Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=shubhamshandilya&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
 
 ---
 
 ## 🚀 About Me
 - 🎓 B.Tech student passionate about **Software Development**
-- 💻 Interested in **Web Development & Backend Systems**
-- 🌱 Currently learning **DSA, .NET, C#, and System Design**
-- 🤝 Open to **Open Source Contributions**
+- 💻 Interested in **Backend, Full Stack Development & System Design**
+- 🌱 Currently learning **C#, .NET, DSA, and Web Technologies**
+- 🤝 Actively exploring **Open Source Contributions**
 - 🎯 Goal: Become a **Skilled Software Engineer**
 
 ---
@@ -37,27 +37,12 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamshandilya&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamshandilya&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📧 Email: yourmail@gmail.com
-
-<!--
-**Shandilya009/Shandilya009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shubham-shandilya-67a7112b3/
+- 📧 **Email:** sshandilya2304@gmail.com
