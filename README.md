@@ -2,7 +2,7 @@
 
 ### 🎓 B.Tech Student | 💻 Aspiring Software Engineer | 🚀 Tech Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Shandilya009&color=blue)
 
 ---
 
